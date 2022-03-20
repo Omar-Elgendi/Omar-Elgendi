@@ -6,6 +6,6 @@
 </p>
 
 
-I'm a fresh software developer who is passionate about creating websites and playing around with fonts and colors, I enjoy working with some technologies such as HTML, CSS, SASS, Bootstrap, Javascript and I am on my way to learn ReactJS/
+I'm a fresh software developer who is passionate about creating websites and playing around with fonts and colors, I enjoy working with some technologies such as HTML, CSS, SASS, Bootstrap, Javascript and I am on my way to learn ReactJS.
 
 - I am currently unemployed and I am looking for an opportunity to train and develop my skills, I live in NRW, Germany.
