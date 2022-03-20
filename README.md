@@ -5,7 +5,6 @@
       <a href="https://instagram.com/omarelgende"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=White"/></a>
 </p>
 
-      <img src="https://github.com/Omar-Elgendi/Omar-Elgendi/blob/master/profile-img.png" align"right" width="25%"/>
 
 I'm a fresh software developer who is passionate about creating websites and playing around with fonts and colors, I enjoy working with some technologies such as HTML, CSS, SASS, Bootstrap, Javascript and I am on my way to learn ReactJS/
 
